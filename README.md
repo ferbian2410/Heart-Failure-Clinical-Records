@@ -1,5 +1,3 @@
-# Heart-Failure-Clinical-Records
-
 # Heart Failure Prediction using Neural Network
 
 ## Deskripsi Project
