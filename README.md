@@ -59,19 +59,23 @@ risiko kematian pasien gagal jantung dengan performa yang cukup baik.
 ---
 
 ## Struktur Folder
-heart-failure-neural-network
+heart-failure-neural-network/
 ├── dataset/
 │   └── heart_failure_clinical_records_dataset.csv
+│
 ├── notebooks/
 │   └── heart_failure_nn.ipynb
+│
 ├── src/
 │   ├── data_preparation.py
 │   ├── model.py
 │   ├── train.py
 │   └── evaluation.py
+│
 ├── results/
 │   ├── confusion_matrix.png
 │   └── accuracy_report.txt
+│
 ├── README.md
 ├── requirements.txt
 └── .gitignore
