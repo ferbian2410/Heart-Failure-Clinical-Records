@@ -58,4 +58,3 @@ risiko kematian pasien gagal jantung dengan performa yang cukup baik.
 
 ---
 
-## Struktur Folder
