@@ -55,6 +55,3 @@ Evaluasi dilakukan menggunakan data testing (30%) dengan metode:
 
 Hasil evaluasi menunjukkan bahwa model Neural Network mampu memprediksi
 risiko kematian pasien gagal jantung dengan performa yang cukup baik.
-
----
-
