@@ -55,3 +55,55 @@ Evaluasi dilakukan menggunakan data testing (30%) dengan metode:
 
 Hasil evaluasi menunjukkan bahwa model Neural Network mampu memprediksi
 risiko kematian pasien gagal jantung dengan performa yang cukup baik.
+
+---
+
+## Struktur Folder
+heart-failure-neural-network/
+│
+├── dataset/
+│ └── heart_failure_clinical_records_dataset.csv
+│
+├── notebooks/
+│ └── heart_failure_nn.ipynb
+│
+├── src/
+│ ├── data_preparation.py
+│ ├── model.py
+│ ├── train.py
+│ └── evaluation.py
+│
+├── results/
+│ ├── confusion_matrix.png
+│ └── accuracy_report.txt
+│
+├── README.md
+└── requirements.txt
+
+yaml
+Salin kode
+
+---
+
+## Tools & Library
+- Python  
+- Pandas  
+- NumPy  
+- Scikit-learn  
+- TensorFlow / Keras  
+- Matplotlib  
+- Seaborn  
+
+---
+
+## Perspektif Sistem Informasi
+Model ini dapat diintegrasikan ke dalam **Sistem Informasi Rumah Sakit**
+sebagai **Clinical Decision Support System (CDSS)** untuk membantu
+tenaga medis dalam mengidentifikasi pasien dengan risiko kematian tinggi
+secara lebih cepat dan akurat.
+
+---
+
+## Author
+**Nama:** Febrian  
+**Universitas:** Universitas Darwan Ali
